@@ -36,10 +36,12 @@ T ≥ Rf Cf
 The integrator is most commonly used in analog computers and ADC and signal-wave shaping circuits.
 CIRCUIT DIAGRAM
 ## CIRCUIT DIAGRAM
-<img width="698" height="423" alt="image" src="https://github.com/user-attachments/assets/f007b349-f96e-42d3-acd3-a37119fc16fc" />
+
+![WhatsApp Image 2025-11-27 at 11 24 37 PM](https://github.com/user-attachments/assets/050df0b4-7aa0-4c12-95c6-f74e1990616b)
 
 
 ## MODEL GRAPH
+
 <img width="556" height="380" alt="image" src="https://github.com/user-attachments/assets/caa7461c-69f7-4636-8e31-eea6db6efbb5" />
 
 <img width="847" height="553" alt="image" src="https://github.com/user-attachments/assets/d8d3e586-8e58-47ba-baae-2794c7955d51" />
@@ -50,7 +52,7 @@ CIRCUIT DIAGRAM
 
 To obtain the output of an Integrator circuit with component values R1Cf = 0.1ms , Rf = 10 R1 and Cf = 0.01 µF and also if 1 V peak square wave at 1000Hz is applied as input.
 We know the frequency at which the gain is 0 dB, fb = 1 / (2π R1 Cf) Therefore fb = 	 Since fb = 10 fa , and also the gain limiting frequency fa = 1 / (2π Rf Cf)
-We get , R1 =	and hence Rf = 	
+We get , R1 = 15k	and hence Rf = 150k	
 
 ## PROCEDURE
 
@@ -61,16 +63,15 @@ We get , R1 =	and hence Rf =
 
 
 ## TABULATION
-| Waveform Type | **Input Amplitude (V)** | **Input Time Period (ms)** | **Input Frequency (Hz)** | **Output Amplitude (V)** | **Output Time Period (ms)** | **Output Frequency (Hz)** |
-|----------------|--------------------------|-----------------------------|---------------------------|---------------------------|------------------------------|----------------------------|
-| Sine Wave      |                          |                             |                           |                           |                              |                            |
-| Square Wave    |                          |                             |                           |                           |                              |                            |
-		
+
+<img width="1280" height="1081" alt="image" src="https://github.com/user-attachments/assets/4983e396-e992-4cae-8c44-9e93f41903d5" />
+
 
 ---
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/8d866931-03a2-40a2-993c-4f9b0c73cc79" />
 
 ---
 **DATE:**  
@@ -109,7 +110,8 @@ Here the negative sign indicates that the output voltage is 180 0 out of phase w
 The differentiator is most commonly used in wave shaping circuits to detect high frequency components in an input signal and also as a rate–of–change detector in FM modulators.
 
 ## CIRCUIT DIAGRAM
-<img width="760" height="414" alt="image" src="https://github.com/user-attachments/assets/6ee3caf5-d5de-4c38-8ebe-7ff5add6c9cd" />
+
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/6cf709e1-da10-4e69-8554-578488a5eb58" />
 
 
 
@@ -149,15 +151,14 @@ We get, CF = (1.59*103*10-7) / 15.9*103
 4.	The output voltage is obtained in the CRO and the input and output voltage waveforms are plotted in a graph sheet.
 
  ## TABULATION
-| Waveform Type | **Input Amplitude (V)** | **Input Time Period (ms)** | **Input Frequency (Hz)** | **Output Amplitude (V)** | **Output Time Period (ms)** | **Output Frequency (Hz)** |
-|----------------|--------------------------|-----------------------------|---------------------------|---------------------------|------------------------------|----------------------------|
-| Sine Wave      |                          |                             |                           |                           |                              |                            |
-| Square Wave    |                          |                             |                           |                           |                              |                            |
-		
+
+<img width="1280" height="771" alt="image" src="https://github.com/user-attachments/assets/9529d060-4b26-44f9-8b9f-dabdacee92ec" />
+
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
----
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/3ae5dc65-96f6-4a9a-8acd-18fd81bda5ba" />
+
 
 RESULT:
 Thus an Integrator and Differentiator using op-amp are designed and their performance was successfully tested using op-amp IC 741.
