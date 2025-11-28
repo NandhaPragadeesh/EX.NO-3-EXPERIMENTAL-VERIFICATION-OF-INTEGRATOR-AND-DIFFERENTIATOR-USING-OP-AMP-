@@ -37,7 +37,7 @@ The integrator is most commonly used in analog computers and ADC and signal-wave
 CIRCUIT DIAGRAM
 ## CIRCUIT DIAGRAM
 
-![WhatsApp Image 2025-11-27 at 11 24 37 PM](https://github.com/user-attachments/assets/050df0b4-7aa0-4c12-95c6-f74e1990616b)
+<img width="1600" height="1046" alt="image" src="https://github.com/user-attachments/assets/99afe77a-0592-4187-b43b-6315e37ef6d5" />
 
 
 ## MODEL GRAPH
@@ -64,14 +64,16 @@ We get , R1 = 15k	and hence Rf = 150k
 
 ## TABULATION
 
-<img width="1280" height="1081" alt="image" src="https://github.com/user-attachments/assets/4983e396-e992-4cae-8c44-9e93f41903d5" />
+<img width="1337" height="1080" alt="image" src="https://github.com/user-attachments/assets/cac4cc4d-9e47-46a9-936a-be928fa71f72" />
+
 
 
 ---
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
-<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/8d866931-03a2-40a2-993c-4f9b0c73cc79" />
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/70c21a4a-9507-4ed4-99ca-5ce95702cb3b" />
+
 
 ---
 **DATE:**  
@@ -111,7 +113,7 @@ The differentiator is most commonly used in wave shaping circuits to detect high
 
 ## CIRCUIT DIAGRAM
 
-<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/6cf709e1-da10-4e69-8554-578488a5eb58" />
+<img width="1521" height="1039" alt="image" src="https://github.com/user-attachments/assets/e8711303-a05b-4d18-b76f-dd1d42e68995" />
 
 
 
@@ -152,12 +154,12 @@ We get, CF = (1.59*103*10-7) / 15.9*103
 
  ## TABULATION
 
-<img width="1280" height="771" alt="image" src="https://github.com/user-attachments/assets/9529d060-4b26-44f9-8b9f-dabdacee92ec" />
+<img width="1303" height="1080" alt="image" src="https://github.com/user-attachments/assets/7b9e1296-c6f2-4140-be9c-b61d9acfa8cf" />
 
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
-<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/3ae5dc65-96f6-4a9a-8acd-18fd81bda5ba" />
+<img width="1465" height="1060" alt="image" src="https://github.com/user-attachments/assets/f1a9ea4a-d336-42a7-998f-415da4ab1b14" />
 
 
 RESULT:
