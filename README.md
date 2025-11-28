@@ -37,7 +37,7 @@ The integrator is most commonly used in analog computers and ADC and signal-wave
 CIRCUIT DIAGRAM
 ## CIRCUIT DIAGRAM
 
-<img width="1600" height="1046" alt="image" src="https://github.com/user-attachments/assets/99afe77a-0592-4187-b43b-6315e37ef6d5" />
+![WhatsApp Image 2025-11-28 at 8 45 53 PM](https://github.com/user-attachments/assets/d5d81e08-3d99-409f-a322-a5dd7761ca89)
 
 
 ## MODEL GRAPH
@@ -72,7 +72,7 @@ We get , R1 = 15k	and hence Rf = 150k
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
-<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/70c21a4a-9507-4ed4-99ca-5ce95702cb3b" />
+<img width="1600" height="1046" alt="image" src="https://github.com/user-attachments/assets/99afe77a-0592-4187-b43b-6315e37ef6d5" />
 
 
 ---
